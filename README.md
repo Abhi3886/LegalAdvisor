@@ -1,4 +1,4 @@
-# ⚖️ LegalConnect – Smart Legal Case & Lawyer Management System Website
+## ⚖️ LegalConnect – Smart Legal Case & Lawyer Management System Website
 
 > A full-stack web application connecting clients with lawyers and streamlining legal case management.
 
